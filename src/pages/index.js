@@ -21,9 +21,9 @@ const IndexPage = () => (
     <header className="masthead">
       <div className="container d-flex h-100 align-items-center">
         <div className="mx-auto text-center">
-          <h1 className="mx-auto my-0 text-uppercase">{config.heading}</h1>
+          <h1 className="mx-auto my-0 text-uppercase">Michaela Heyer</h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5">
-            {config.subHeading}
+            Marketeer, Web Developer, <br /> Conflict Manager
           </h2>
           <Scroll type="id" element="about">
             <a href="#about" className="btn btn-primary">
@@ -38,14 +38,11 @@ const IndexPage = () => (
       <div className="container">
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <h2 className="text-white mb-4">Built with Bootstrap 4</h2>
+            <h2 className="text-white mb-4">Built with Brain and Heart</h2>
             <p className="text-white-50">
-              Grayscale is a free Bootstrap theme created by Start Bootstrap. It
-              can be yours right now, simply download the starter on
-              <a href="https://github.com/anubhavsrivastava/gatsby-starter-grayscale">
-                the github repo
-              </a>
-              .
+              Done with conflicts but they keep coming up? At home, at the
+              office, with a neighbour? <br />
+              Good thing is, you're NOT the problem, but 50% of the answer.
             </p>
           </div>
         </div>
